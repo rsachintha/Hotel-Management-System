@@ -1,0 +1,45 @@
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\bin\Debug\HotelLoginForm.exe
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\bin\Debug\HotelLoginForm.pdb
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.Dashboard.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.btnExit.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.Properties.Resources.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.exe
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.pdb
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCAddRoom.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UserCustomerRegister.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.PackagesView.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCCustomerDetails.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCCheckOut.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCReservationEdit.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCRoomAvailability.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\bin\Debug\HotelLoginForm.exe.config
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCHome.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\obj\Debug\HotelLoginForm.Progress.resources
+C:\Users\Kevin\source\repos\HotelLoginForm\HotelLoginForm\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Campus Documents\C#\27\HotelLoginForm\bin\Debug\HotelLoginForm.exe.config
+D:\Campus Documents\C#\27\HotelLoginForm\bin\Debug\HotelLoginForm.exe
+D:\Campus Documents\C#\27\HotelLoginForm\bin\Debug\HotelLoginForm.pdb
+D:\Campus Documents\C#\27\HotelLoginForm\bin\Debug\Guna.UI2.dll
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.Dashboard.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.btnExit.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.Progress.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.Properties.Resources.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.PackagesView.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCAddRoom.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCCheckOut.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCCustomerDetails.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCHome.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCReservationEdit.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UCRoomAvailability.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.User_Control.UserCustomerRegister.resources
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.exe
+D:\Campus Documents\C#\27\HotelLoginForm\obj\Debug\HotelLoginForm.pdb
