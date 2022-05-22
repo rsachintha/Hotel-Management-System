@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="HMS_DBDataSet3" targetNamespace="http://tempuri.org/HMS_DBDataSet3.xsd" xmlns:mstns="http://tempuri.org/HMS_DBDataSet3.xsd" xmlns="http://tempuri.org/HMS_DBDataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="HotelDBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="HotelDBConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.HotelLoginForm.Properties.Settings.GlobalReference.Default.HotelDBConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="Room_AvTableAdapter" GeneratorDataComponentClassName="Room_AvTableAdapter" Name="Room_Av" UserDataComponentName="Room_AvTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="HotelDBConnectionString (Settings)" DbObjectName="dbo.RoomAvailability" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        RoomType AS Expr1
+FROM            RoomAvailability</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Type" DataSetColumn="Type" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="HMS_DBDataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="HMS_DBDataSet3" msprop:Generator_UserDSName="HMS_DBDataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Room_Av" msprop:Generator_TableClassName="Room_AvDataTable" msprop:Generator_TableVarName="tableRoom_Av" msprop:Generator_TablePropName="Room_Av" msprop:Generator_RowDeletingName="Room_AvRowDeleting" msprop:Generator_RowChangingName="Room_AvRowChanging" msprop:Generator_RowEvHandlerName="Room_AvRowChangeEventHandler" msprop:Generator_RowDeletedName="Room_AvRowDeleted" msprop:Generator_UserTableName="Room_Av" msprop:Generator_RowChangedName="Room_AvRowChanged" msprop:Generator_RowEvArgName="Room_AvRowChangeEvent" msprop:Generator_RowClassName="Room_AvRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Type" msprop:Generator_ColumnVarNameInTable="columnType" msprop:Generator_ColumnPropNameInRow="Type" msprop:Generator_ColumnPropNameInTable="TypeColumn" msprop:Generator_UserColumnName="Type" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
